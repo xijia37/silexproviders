@@ -4,5 +4,8 @@
         "psr-0": {
             "Hisu": "src/"
         }
+    },
+    "require": {
+        "catfan/medoo": "dev-develop"
     }
 }
