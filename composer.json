@@ -6,6 +6,6 @@
         }
     },
     "require": {
-        "catfan/medoo": "dev-develop"
+        "catfan/medoo": "dev-master"
     }
 }
